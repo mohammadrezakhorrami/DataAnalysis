@@ -1,0 +1,139 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 309.08333333333331
+          },
+          "nodeIndex": "Product Table",
+          "nodeLineageTag": "d5ee1d1c-e2dd-4fa2-839a-ffd97ab337d8",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 497.66666666666663,
+            "y": 519.66666666666674
+          },
+          "nodeIndex": "Sale InvoceDetail",
+          "nodeLineageTag": "1c4f63ed-7eb8-42cd-81a9-a7559e1216ff",
+          "size": {
+            "height": 300,
+            "width": 233
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 388,
+            "y": 0
+          },
+          "nodeIndex": "DimDate",
+          "nodeLineageTag": "91e6f097-c92a-4cc8-bfea-ee65b6f91472",
+          "size": {
+            "height": 418.33333333333331,
+            "width": 285.66666666666663
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 919,
+            "y": 11.75
+          },
+          "nodeIndex": "Target",
+          "nodeLineageTag": "17d73e00-f331-4a93-afb2-cbdebfb6b764",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "SalesYearlyComparison",
+          "nodeLineageTag": "5ca7685c-dff6-41e2-9417-23d8a6190bcc",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 528.00000000000023
+          },
+          "nodeIndex": "PercentageOfGoalAchievement",
+          "nodeLineageTag": "2741e8a8-73c0-4dbb-9530-fb103e37f638",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 1237,
+            "y": 434
+          },
+          "nodeIndex": "CumulativeSalesByYearAndMonth",
+          "nodeLineageTag": "e223b6ff-43cb-4bd5-9302-bec5d1ce0df8",
+          "size": {
+            "height": 210.33333333333337,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 1191,
+            "y": 197.33333333333334
+          },
+          "nodeIndex": "SalesShareOfEachProductByYear",
+          "nodeLineageTag": "33044221-6632-4a7b-8f19-393b9bcfa9b7",
+          "size": {
+            "height": 192,
+            "width": 372.33333333333326
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 799.99999999999989,
+            "y": 533.66666666666674
+          },
+          "nodeIndex": "Pareto's rule (80/20) for products",
+          "nodeLineageTag": "e3f7dd90-546a-439c-b043-1445144d063b",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 1
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 60,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

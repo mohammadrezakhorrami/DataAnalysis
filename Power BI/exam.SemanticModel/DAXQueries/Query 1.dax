@@ -1,0 +1,5 @@
+CurrentYearSales = 
+CALCULATE(
+    SUM([TotalPrice]),
+    ALLEXCEPT('Sale InvoceDetail', 'DimDate'[Shamsi Year], 'DimDate'[Shamsi Month])
+)
